@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Blog
 =======
 ### Hi there 👋
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 96118384f53615eb658b0c15767c6971b8f57bf7
+
